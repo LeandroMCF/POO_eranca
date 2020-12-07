@@ -1,0 +1,13 @@
+C:\Users\leand\OneDrive\Área de Trabalho\POO_eranca\bin\Debug\netcoreapp3.1\POO_eranca.exe
+C:\Users\leand\OneDrive\Área de Trabalho\POO_eranca\bin\Debug\netcoreapp3.1\POO_eranca.deps.json
+C:\Users\leand\OneDrive\Área de Trabalho\POO_eranca\bin\Debug\netcoreapp3.1\POO_eranca.runtimeconfig.json
+C:\Users\leand\OneDrive\Área de Trabalho\POO_eranca\bin\Debug\netcoreapp3.1\POO_eranca.runtimeconfig.dev.json
+C:\Users\leand\OneDrive\Área de Trabalho\POO_eranca\bin\Debug\netcoreapp3.1\POO_eranca.dll
+C:\Users\leand\OneDrive\Área de Trabalho\POO_eranca\bin\Debug\netcoreapp3.1\POO_eranca.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\POO_eranca\obj\Debug\netcoreapp3.1\POO_eranca.csprojAssemblyReference.cache
+C:\Users\leand\OneDrive\Área de Trabalho\POO_eranca\obj\Debug\netcoreapp3.1\POO_eranca.AssemblyInfoInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\POO_eranca\obj\Debug\netcoreapp3.1\POO_eranca.AssemblyInfo.cs
+C:\Users\leand\OneDrive\Área de Trabalho\POO_eranca\obj\Debug\netcoreapp3.1\POO_eranca.csproj.CoreCompileInputs.cache
+C:\Users\leand\OneDrive\Área de Trabalho\POO_eranca\obj\Debug\netcoreapp3.1\POO_eranca.dll
+C:\Users\leand\OneDrive\Área de Trabalho\POO_eranca\obj\Debug\netcoreapp3.1\POO_eranca.pdb
+C:\Users\leand\OneDrive\Área de Trabalho\POO_eranca\obj\Debug\netcoreapp3.1\POO_eranca.genruntimeconfig.cache

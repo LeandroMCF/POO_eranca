@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cy3n2b0FG2h36a9IY89+BFVBLQgEfIBEeStXLanImptvmxGcvYObRc7cJ/Xw5ZfWhWC+KGBT0BF9REz74YuIng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\POO_eranca\\POO_eranca.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
